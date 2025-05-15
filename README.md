@@ -52,6 +52,6 @@ These findings offer valuable insights for the tourism industry. Destinations ca
 
 ## Full Project Report/Thesis
 You can view the full report/thesis for this project here: 
-[Enhancing Tourist Experience using Social Media Analysis and Deep Learning Techniques](https://drive.google.com/file/d/1B6aqkDSUG4DHg-YDjG5UnPIcPFZzrmWI/view?usp=sharing)
+[Enhancing Tourist Experience using Social Media Analysis and Deep Learning Techniques](https://drive.google.com/file/d/1tpvgHpR8mOfBNpU8ZmsTgDvAN4KoxKlm/view?usp=sharing)
 
 
